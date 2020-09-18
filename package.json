@@ -1,0 +1,23 @@
+{
+  "name": "crawl-bike-mail",
+  "version": "1.0.0",
+  "description": "Crawl used bikes and send the newest as mail",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finnwebtech/crawl-bike-mail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finnwebtech/crawl-bike-mail/issues"
+  },
+  "homepage": "https://github.com/finnwebtech/crawl-bike-mail#readme",
+  "dependencies": {
+    "@types/node": "^14.11.1",
+    "emailjs": "^3.3.0"
+  }
+}
